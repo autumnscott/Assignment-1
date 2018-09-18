@@ -11,7 +11,7 @@ To find the most recent driver go to this page: https://www.wacom.com/en-us/supp
 Once you have downloaded the driver, it's time to get your wacom tablet preferences set up!
 
 #Step One
-Setting up preferences for your tablet allows you to work faster and to have more control over what you're doing. You might notice that a Intuos Pro Wacom Tablet has a series of buttons down the left hand side of it. These buttons are designed to make the tablet experience more customizable and efficient. 
+You might notice that a Intuos Pro Wacom Tablet has a series of buttons down the left hand side of it. These buttons are designed to make the tablet experience more customizable and efficient. To begin customizing these buttons to your prefered work 
 
 ## Sources
 https://www.techwalla.com/articles/how-to-set-up-a-wacom-tablet
