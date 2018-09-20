@@ -16,7 +16,7 @@ You might notice that a Intuos Pro Wacom Tablet has a series of buttons running 
 
 Your Wacom Desktop Center should look like this:
 
-git add screenshot.png)
+git add screenshot.png
 
 After you've got the desktop center open, starting going down the list.
 
