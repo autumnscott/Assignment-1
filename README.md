@@ -10,11 +10,15 @@ To find the most recent driver go to this page: https://www.wacom.com/en-us/supp
 
 Once you have downloaded the driver, it's time to get your wacom tablet preferences set up!
 
-#Step One - Setting Up Preferences
+## Step One - Setting Up Preferences
 
 You might notice that a Intuos Pro Wacom Tablet has a series of buttons running down the side of it. These are "Express Keys," and they will help you to work faster and more efficiently. To begin seting up your tablet, open your wacom desktop center. 
 
+Your Wacom Desktop Center should look like this:
+
 ![alt text](http://url/to/img.png)
+
+After you've got the desktop center open, starting going down the list.
 
 ## Sources
 https://www.techwalla.com/articles/how-to-set-up-a-wacom-tablet
