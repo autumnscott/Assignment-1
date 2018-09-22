@@ -18,7 +18,7 @@ You might notice that a Intuos Pro Wacom Tablet has a series of buttons running 
 
 Your Wacom Desktop Center should look like this:
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/Screen Shot 2018-09-20 at 12.33.00 PM.png)
 
 
 After you've got the desktop center open, click on the first tab at the top on the left "My Device." You should see to the right of that the name of your device. Mine says Intuos Pro M. Click on the name and then a list of your settings will pop up. Begin making your way through the list setting your own personal preferences to each control. Everyone's settings will look different from one another. It all depends on which applications your using and which hand is your dominate hand. The first section listed under the settings portion of the desktop center is "Orientation Settings." This is simply you telling your tablet which hand you'll be operating with.
