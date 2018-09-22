@@ -31,7 +31,11 @@ The Wacom Desktop Center allows you to access to changing preferences, backup se
 
 After you've got the desktop center open, click on the first tab at the top on the left "My Device." You should see to the right of that the name of your device. Mine says Intuos Pro M. Click on the name and then a list of your settings will pop up. Begin making your way through the list setting your own personal preferences to each control. Everyone's settings will look different from one another. It all depends on which applications your using and which hand is your dominate hand. The first section listed under the settings portion of the desktop center is "Orientation Settings." This is simply you telling your tablet which hand you'll be operating with. As you make your way down the list you'll come across the orientation settings, touch settings, pen settings, express key settings, touch ring settings, and the on-screen control settings. Once you've set up your settings it's time to get started in illustrator.
 
-## Getting Started In Illustrator
+## Step Two - Getting Started In Illustrator
+
+When you first get started in Illustrator you want to make sure that you have your tools set up correctly so that you get the most authentic tablet drawing experience possible. You want your paintbrushes to paint as if you were physically holding them, the more pressure the wider the stroke. So first, we are going to set up our brushes to paint with "pressure" rather than a "fixed" setting. 
+
+To set up pressure settings with your paint brush go to the window menu, scroll down to brushes, open the dropdown menu in the top right hand corner of the panel, and then select brush options. Change all of the settings from fixed to pressure.
 
 
 ## Sources
