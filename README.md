@@ -6,7 +6,10 @@ Wacom tablets have become a must have for professional illustrators. If you’re
 ## Getting Started
 Before we dive into drawing with the wacom tablet, there's a few things we need to get set up. First, close down all of your applications on your computer, connect the wacom tablet to your computer via the usb cable, then make sure you have the latest driver for your tablet downloaded onto your computer. 
 
-To find the most recent driver go to this page: https://www.wacom.com/en-us/support/product-support/drivers
+To find the most recent driver go to this page:
+
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/screenshot.png)
+
 
 Once you have downloaded the driver, it's time to get your wacom tablet preferences set up!
 
