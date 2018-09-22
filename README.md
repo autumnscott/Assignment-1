@@ -14,14 +14,25 @@ Once you have downloaded the driver, it's time to get your wacom tablet preferen
 
 ## Step One - Setting Up Preferences
 
-You might notice that a Intuos Pro Wacom Tablet has a series of buttons running down the side of it. These are "Express Keys," and they will help you work faster and more efficiently. To begin setting up your Express Keys, open your wacom desktop center. 
+You might notice that a Intuos Pro Wacom Tablet has a series of buttons running down the side of it. These are "Express Keys," and they will help you to work faster and have more control with yiur tablet. There are two ways to get access to these settings, usig apples system preferences, or going through the wacom desktop center. When first setting up the tablet I recommend using the wacom desktop center. It has more areas of control than just the settings. Later on, if you are looking to tweak or edit your wacom preferences I recomend quickly going through the apple menu.
 
-Your Wacom Desktop Center should look like this:
+### Two Ways to Set Up Preferences
+1. Open launchpad, navigate to wacom desktop center
+2. Go to the Apple Menu in the top left hand corner of the screen, go to system preferences, and then navigate to Wacom Tablet
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/Screen Shot 2018-09-20 at 12.33.00 PM.png)
+If you went with the first way of getting to your tablet preferences you should have opened the wacom desktop center application that looks something like this.
+
+## Your Wacom Desktop Center:
+
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/ScreenShot2018-09-20at 12.33.00 PM.png)
 
 
-After you've got the desktop center open, click on the first tab at the top on the left "My Device." You should see to the right of that the name of your device. Mine says Intuos Pro M. Click on the name and then a list of your settings will pop up. Begin making your way through the list setting your own personal preferences to each control. Everyone's settings will look different from one another. It all depends on which applications your using and which hand is your dominate hand. The first section listed under the settings portion of the desktop center is "Orientation Settings." This is simply you telling your tablet which hand you'll be operating with.
+The Wacom Desktop Center allows you to access to changing preferences, backup settings, updates, the wacom marketplace, the store, and support fot the tablet. I think it's important to familiarize yourself with this center before using the tablet.
+
+After you've got the desktop center open, click on the first tab at the top on the left "My Device." You should see to the right of that the name of your device. Mine says Intuos Pro M. Click on the name and then a list of your settings will pop up. Begin making your way through the list setting your own personal preferences to each control. Everyone's settings will look different from one another. It all depends on which applications your using and which hand is your dominate hand. The first section listed under the settings portion of the desktop center is "Orientation Settings." This is simply you telling your tablet which hand you'll be operating with. As you make your way down the list you'll come across the orientation settings, touch settings, pen settings, express key settings, touch ring settings, and the on-screen control settings. Once you've set up your settings it's time to get started in illustrator.
+
+## Getting Started In Illustrator
+
 
 ## Sources
 https://www.techwalla.com/articles/how-to-set-up-a-wacom-tablet
