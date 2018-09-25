@@ -22,7 +22,7 @@ You might notice that a Intuos Pro Wacom Tablet has a series of buttons running 
 
 If you went with the first way of getting to your tablet preferences you should have opened the wacom desktop center application that looks something like this.
 
-## Your Wacom Desktop Center:
+### Your Wacom Desktop Center:
 
 ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/ScreenShot2018-09-20at 12.33.00 PM.png)
 
@@ -41,9 +41,9 @@ To set up pressure settings with your paint brush go to the window menu, scroll 
 
 Now that we've got our brushes set up, it's time to start creating in Illustrator. Most illustrators create their artwork within layers. First, they will begin sketching their subject with the pencil tool. This will be on the bottom layer, while the finished more polished artwork will be on the top. 
 
-## Start sketching on a Blank Layer
+### Start sketching on a Blank Layer
 
-## Keep Sketching
+### Keep Sketching
 
 ## Step Four- Turn Down Opacity and Create Line Art
 
