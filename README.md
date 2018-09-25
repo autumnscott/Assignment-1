@@ -41,7 +41,21 @@ To set up pressure settings with your paint brush go to the window menu, scroll 
 
 Now that we've got our brushes set up, it's time to start creating in Illustrator. Most illustrators create their artwork within layers. First, they will begin sketching their subject with the pencil tool. This will be on the bottom layer, while the finished more polished artwork will be on the top. 
 
+## Start sketching on a Blank Layer
+
+## Keep Sketching
+
+## Step Four- Turn Down Opacity and Create Line Art
+
+After you've got a pretty good sketch drawn out, turn down your opacity on the sketched layer. Create a new layer and draw over the sketch using bold strokes. This makes the sketch appear to be more finished.
+
+## Step Five - Add Color
+
+After you've finished your line art, start adding basic colors to your sketch. 
+
+
 
 ## Sources
 https://www.techwalla.com/articles/how-to-set-up-a-wacom-tablet
 https://community.wacom.com/inspiration/blog/2015/july/how-to-draw-in-adobe-illustrator-with-a-wacom-tablet
+https://www.sketchbook.com/blog/wacom-intuos-sketchbook-workflow/
