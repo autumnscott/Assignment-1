@@ -26,6 +26,8 @@ If you went with the first way of getting to your tablet preferences you should 
 
 ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/ScreenShot2018-09-20at 12.33.00 PM.png)
 
+![Desktop Center](
+
 
 The Wacom Desktop Center allows you to access to changing preferences, backup settings, updates, the wacom marketplace, the store, and support fot the tablet. I think it's important to familiarize yourself with this center before using the tablet.
 
