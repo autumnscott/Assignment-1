@@ -48,6 +48,8 @@ Now that we've got our brushes set up, it's time to start creating in Illustrato
 
 ### Start sketching on a Blank Layer
 
+For the sake of time, I have provided images below of someone else's artwork to represent the process of drawing with a wacom tablet. Below you will see how this particular illustrator makes their rough sketch of the character. Don't fret too much about sketching out each line perfectly. We're going to come back on top of this layer anyway.
+
 ![Sketch Layer](blanklayer.png)
 
 ![sketch](sketch.png)
@@ -56,7 +58,7 @@ Now that we've got our brushes set up, it's time to start creating in Illustrato
 
 ## Step Four- Turn Down Opacity and Create Line Art
 
-After you've got a pretty good sketch drawn out, turn down your opacity on the sketched layer. Create a new layer and draw over the sketch using bold strokes. This makes the sketch appear to be more finished.
+After you've got a pretty good sketch drawn out, turn down your opacity on the sketched layer. Create a new layer and draw over the sketch using bold strokes. This makes the sketch appear to be more finished. In order to keep your layers organized I recommend giving them titles such as sketch, and line art. This way you can toggle back and forth between layers without any confusion.
 
 ![line art](lineart.png)
 
@@ -71,7 +73,12 @@ After you've finished your line art, start adding basic colors to your sketch.
 
 ## Step Six - Blend Your Colors
 
+After you've finished adding color to your illustration, your image will need some blending. Unfortunately after the coloring process, and illustration can look extremely splotchy. This is why blending is so important. Blending can help your artwork appear more polished and can give the art more of a realistic feel to it. 
+
 ![blending image](blend.png)
+
+### To watch the entire video of this illustration being made go to
+https://www.sketchbook.com/blog/wacom-intuos-sketchbook-workflow/
 
 
 ## Sources
