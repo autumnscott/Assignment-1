@@ -67,7 +67,11 @@ After you've got a pretty good sketch drawn out, turn down your opacity on the s
 
 After you've finished your line art, start adding basic colors to your sketch. 
 
-![Desktop Center](wacomdesktop.png)
+![Adding Color](addcolor.png)
+
+## Step Six - Blend Your Colors
+
+![blending image](blend.png)
 
 
 ## Sources
