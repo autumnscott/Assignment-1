@@ -48,7 +48,7 @@ Now that we've got our brushes set up, it's time to start creating in Illustrato
 
 ### Start sketching on a Blank Layer
 
-![Sketch Layer]()
+![Sketch Layer](blanklayer.png)
 
 ### Keep Sketching
 ![Developed Sketch]()
