@@ -3,7 +3,7 @@ by Autumn Scott
 
 Wacom tablets have become a must have tool for professional illustrators. If you’re reading this document, odds are you're probably interested in building your skills as an illustrator. This instructional tutorial is intended to give proper background knowledge to those familiar with Adobe Illustrator looking to implement the wacom tablet. Being able to efficiently use a drawing tablet has become an essential skill for illustrators. Tablets are commonly used in the field of illustration because they allow the artist to have more more control when creating sophisticated artwork, as well as create customized shortcuts to tools in applications. Many illustrators prefer tablets opposed to traditional media because of it’s natural “pencil and paper” feel. 
 
-## Getting Started
+## Download the Most Recent Driver
 Before we dive into drawing with the wacom tablet, there's a few things we need to get set up. First, close down all of your applications on your computer, connect the wacom tablet to your computer via the usb cable, then make sure you have the latest driver for your tablet downloaded onto your computer. 
 
 
@@ -17,13 +17,10 @@ Once you have downloaded the driver, it's time to get your wacom tablet preferen
 
 ## Step One - Setting Up Preferences
 
-You might notice that a Intuos Pro Wacom Tablet has a series of buttons running down the side of it. These are "Express Keys," and they will help you to work faster and have more control with yiur tablet. There are two ways to get access to these settings, usig apples system preferences, or going through the wacom desktop center. When first setting up the tablet I recommend using the wacom desktop center. It has more areas of control than just the settings. Later on, if you are looking to tweak or edit your wacom preferences I recomend quickly going through the apple menu.
+Okay, bare with me, because I know this stuff is boring. If youre looking down at your Wacom Tablet in a state of confusion, wondering what all of those little buttons on the side do, fear no more. You've come to the right place! Those little buttons are "Express Keys," and they are there to make your life easier. So, what we want to do is get these little boogers set up so that we can get rolling, because let's be honest, we want to get to the drawing part! Okay, so there are two ways to navigate to the wacom settings. One is to go through the apple system preferences located at the top left hand corner of any mac. The second is to go through the wacom desktop center. When first setting up the tablet I recommend using the wacom desktop center. It has more areas of control than going throught the system preferences. Later on, if you are looking to tweak or edit your wacom preferences quickly, I recomend going through the apple menu.
 
-### Two Ways to Set Up Preferences
-1. Open launchpad, navigate to wacom desktop center
-2. Go to the Apple Menu in the top left hand corner of the screen, go to system preferences, and then navigate to Wacom Tablet
-
-If you went with the first way of getting to your tablet preferences you should have opened the wacom desktop center application that looks something like this.
+Okay, so open your launchpad, and then navigate to the wacom desktop center icon. It should be a white circle with a blue "w."
+Once you've got it open, your screen should look like the picture shown below.
 
 ### Your Wacom Desktop Center:
 
