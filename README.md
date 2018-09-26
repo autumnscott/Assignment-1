@@ -19,17 +19,16 @@ Once you have downloaded the driver, it's time to get your wacom tablet preferen
 
 ## Step One - Setting Up Preferences
 
-Okay, bare with me, because I know this stuff is boring. If youre looking down at your Wacom Tablet in a state of confusion, wondering what all of those little buttons on the side do, fear no more. You've come to the right place! Those little buttons are "Express Keys," and they are there to make your life easier! So, what we want to do is get these little boogers set up, because let's be honest, we want to get to the fun drawing part already! Okay, so there are two ways to navigate to the wacom settings. One is to go through the apple system preferences located at the top left hand corner of any mac. The second is to go through the wacom desktop center. When first setting up the tablet I recommend using the wacom desktop center. It has more areas of control and gives you extras such as the Wacom store. Later on, if you are looking to tweak or edit your wacom preferences quickly, I recomend going through the apple menu.
+Okay, bare with me, because I know this stuff is boring. If youre looking down at your Wacom Tablet in a state of confusion, wondering what all of those little buttons on the side do, fear no more. You've come to the right place! Those little buttons are "Express Keys," and they are there to make your life easier! So, what we want to do is get these little boogers set up, because let's be honest, we want to get to the fun drawing part already! Okay, so there are two ways to navigate to the wacom settings. One is to go through the apple system preferences located at the top left hand corner of any mac. The second is to go through the wacom desktop center. When first setting up the tablet I recommend using the wacom desktop center. It has more areas of control and gives you extras such as the marketplace and store. Later on, if you are looking to tweak or edit your wacom preferences quickly, I recommend going through the apple menu.
 
-Okay, so open your launchpad, and then navigate to the wacom desktop center icon. It should be a white circle with a blue "w."
-Once you've got it open, your screen should look like the picture shown below.
+Okay, so open your launchpad, and then navigate to the wacom desktop center icon. It should be a white circle with a blue "w." Click on it! Once you've got it open, your screen should look like the picture shown below.
 
 ### Your Wacom Desktop Center:
 
 ![Desktop Center](wacomdesktop.png)
 
 
-The Wacom Desktop Center allows you to access to changing preferences, backup settings, updates, the wacom marketplace, the store, and support fot the tablet. I think it's important to familiarize yourself with this center before using the tablet.
+The Wacom Desktop Center allows you to access changing preferences, backup settings, updates, the wacom marketplace, the store, and support fot the tablet. I think it's important to familiarize yourself with this center before using the tablet.
 
 After you've got the desktop center open, click on the first tab at the top on the left "My Device." You should see to the right of that the name of your device. Mine says Intuos Pro M. Click on the name and then a list of your settings will pop up. Begin making your way through the list setting your own personal preferences to each control. Everyone's settings will look different from one another. It all depends on which applications your using and which hand is your dominate hand. The first section listed under the settings portion of the desktop center is "Orientation Settings." This is simply you telling your tablet which hand you'll be operating with. As you make your way down the list you'll come across the orientation settings, touch settings, pen settings, express key settings, touch ring settings, and the on-screen control settings. Once you've set up your settings it's time to get started in illustrator.
 
