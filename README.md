@@ -1,7 +1,7 @@
 # Using a Wacom Tablet to Draw in Illustrator
 by Autumn Scott
 
-Wacom tablets have become a must have tool for professional illustrators. If you’re reading this document, odds are you're probably interested in building your skills as an illustrator. This instructional tutorial is intended to give proper background knowledge to new users so that they feel comfortable getting started with a drawing tablet. For anyone who is serious about illustration, I recomend learning to use a drawing tablet because it has become such an essential skill for illustrators to have. Employers will expect a professional illustrator to know how to use a tablet. Tablets are so commonly used because they allow the artist to have much more control when creating sophisticated artwork. Wacom tablets also have numerous buttons down the side that can control shortcuts for applications, making it easier to work at a fast pace. Many illustrators prefer tablets opposed to traditional media because of it’s natural “pencil and paper” feel. It is easier for an artist to create images with a pencil-like device rather than a mouse. 
+Wacom tablets have become a must have tool for professional illustrators. If you’re reading this document, odds are you're probably interested in building your skills as an illustrator. This instructional tutorial is intended to give proper background knowledge to new users so that they feel comfortable with a Wacom drawing tablet. For anyone who is serious about illustration, I recommend learning to use a drawing tablet because it is an essential skill to have in the professional world. It will make you easier to sell to future employers. Plus, who wouldn't like the idea of sketching on a crazy futuristic notepad device, anyway? Also, employers will expect a professional illustrator to know how to use a tablet. Although they may seem scary at first, once you're familiar with them, they will make your life easier. Many illustrators prefer tablets opposed to traditional media because of it’s natural “pencil and paper” feel. It is easier for an artist to create images with a pencil-like device rather than a mouse. 
 
 Listed below are steps to guide you through the process of setting up a Wacom tablet and learning to use it within a creative app, such as illustrtator. This process will begin with the basics of making sure you have contemporary software and end with instructions on how to create a finished illustration.
 
@@ -28,13 +28,13 @@ Okay, so open your launchpad, and then navigate to the wacom desktop center icon
 ![Desktop Center](wacomdesktop.png)
 
 
-The Wacom Desktop Center allows you to access changing preferences, backup settings, updates, the wacom marketplace, the store, and support fot the tablet. I think it's important to familiarize yourself with this center before using the tablet.
+The Wacom Desktop Center allows you access to your preferences, your backup settings, updates, the wacom marketplace, the store, and support fot the tablet. I think it's important to familiarize yourself with this center before using the tablet.
 
 After you've got the desktop center open, click on the first tab at the top on the left "My Device." You should see to the right of that the name of your device. Mine says Intuos Pro M. Click on the name and then a list of your settings will pop up. Begin making your way through the list setting your own personal preferences to each control. Everyone's settings will look different from one another. It all depends on which applications your using and which hand is your dominate hand. The first section listed under the settings portion of the desktop center is "Orientation Settings." This is simply you telling your tablet which hand you'll be operating with. As you make your way down the list you'll come across the orientation settings, touch settings, pen settings, express key settings, touch ring settings, and the on-screen control settings. Once you've set up your settings it's time to get started in illustrator.
 
 ## Step Two - Setting Up Your Brushes In Illustrator
 
-When you first get started in Illustrator you want to make sure that you have your tools set up correctly so that you get the most authentic tablet drawing experience possible. You want your paintbrushes to paint as if you were physically holding them, the more pressure the wider the stroke. So first, we are going to set up our brushes to paint with "pressure" rather than a "fixed" setting. 
+When you first get started in Illustrator you want to make sure that you have your tools set up correctly so that you get the most authentic tablet drawing experience possible. There's nothing more frustrating than when you feel like you aren't getting an authentic result because your tools aren't set up correctly. You want your paintbrushes to paint as if you were physically holding them, the more pressure the wider the stroke. So first, we are going to set up our brushes to paint with "pressure" rather than a "fixed" setting. 
 
 To set up pressure settings with your paint brush go to the window menu, scroll down to brushes, open the dropdown menu in the top right hand corner of the panel, and then select brush options. Change all of the settings from fixed to pressure. Now you will have a more realistic painting experience when using your paintbrushes in illustrator. 
 
@@ -42,7 +42,7 @@ To set up pressure settings with your paint brush go to the window menu, scroll 
 
 ## Step Three - Drawing In Illustrator
 
-Now that we've got our brushes set up, it's time to start creating in Illustrator. Most illustrators create their artwork within layers. First, they will begin sketching their subject with the pencil tool. This will be on the bottom layer, while the finished more polished artwork will be on the top. 
+Now that we've got our brushes set up, it's time to start creating in Illustrator. Most illustrators create their artwork within layers. First, they will begin sketching their subject with the pencil tool. This will be on the bottom layer, while the finished more polished artwork will be on the top layers.  
 
 ### Start sketching on a Blank Layer
 
@@ -65,13 +65,13 @@ After you've got a pretty good sketch drawn out, turn down your opacity on the s
 
 ## Step Five - Add Color
 
-After you've finished your line art, start adding basic colors to your sketch. 
+After you've finished your line art, start adding basic colors to your sketch. Start out with a base color and then add shadows and highlights. Add highlights on various parts of the face and in the hair. The more time you spend mapping out where to put highlights and shadows, the more realistic your illustration will be. Detail! Detail! Detail!
 
 ![Adding Color](addcolor.png)
 
 ## Step Six - Blend Your Colors
 
-After you've finished adding color to your illustration, your image will need some blending. Unfortunately after the coloring process, and illustration can look extremely splotchy. This is why blending is so important. Blending can help your artwork appear more polished and can give the art more of a realistic feel to it. 
+After you've finished adding color to your illustration, your image will need some blending. You don't want your beautiful character you just created to have splotchy skin. This is why blending is so important. Blending can help your artwork appear more polished and can give the art more of a realistic feel to it. 
 
 ![blending image](blend.png)
 
