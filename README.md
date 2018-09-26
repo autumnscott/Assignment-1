@@ -50,8 +50,7 @@ Now that we've got our brushes set up, it's time to start creating in Illustrato
 
 ![Sketch Layer](blanklayer.png)
 
-### Keep Sketching
-![Developed Sketch]()
+![sketch](sketch.png)
 
 ## Step Four- Turn Down Opacity and Create Line Art
 
