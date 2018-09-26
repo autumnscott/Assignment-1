@@ -40,6 +40,8 @@ When you first get started in Illustrator you want to make sure that you have yo
 
 To set up pressure settings with your paint brush go to the window menu, scroll down to brushes, open the dropdown menu in the top right hand corner of the panel, and then select brush options. Change all of the settings from fixed to pressure. Now you will have a more realistic painting experience when using your paintbrushes in illustrator. 
 
+![Brush Setup](windowbrushes.png)
+
 ## Step Three - Drawing In Illustrator
 
 Now that we've got our brushes set up, it's time to start creating in Illustrator. Most illustrators create their artwork within layers. First, they will begin sketching their subject with the pencil tool. This will be on the bottom layer, while the finished more polished artwork will be on the top. 
