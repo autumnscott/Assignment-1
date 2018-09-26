@@ -58,10 +58,16 @@ Now that we've got our brushes set up, it's time to start creating in Illustrato
 
 After you've got a pretty good sketch drawn out, turn down your opacity on the sketched layer. Create a new layer and draw over the sketch using bold strokes. This makes the sketch appear to be more finished.
 
+![line art](lineart.png)
+
+![Developed line art](developedlineart.png)
+
+
 ## Step Five - Add Color
 
 After you've finished your line art, start adding basic colors to your sketch. 
 
+![Desktop Center](wacomdesktop.png)
 
 
 ## Sources
