@@ -88,6 +88,7 @@ VOILA! You have made it all the way through this tutorial! I can't believe you a
 ### To watch the entire video of this illustration being made go to https://www.sketchbook.com/blog/wacom-intuos-sketchbook-workflow/
 
 
+
 ## Sources
 https://www.techwalla.com/articles/how-to-set-up-a-wacom-tablet
 https://community.wacom.com/inspiration/blog/2015/july/how-to-draw-in-adobe-illustrator-with-a-wacom-tablet
