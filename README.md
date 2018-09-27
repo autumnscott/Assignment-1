@@ -1,6 +1,8 @@
 # Using a Wacom Tablet to Draw in Illustrator
 by Autumn Scott
 
+![Wacom Tablet](wacomtablet.png)
+
 Wacom tablets have become a must have tool for professional illustrators. If you’re reading this document, odds are you're probably interested in building your skills as an illustrator. This instructional tutorial is intended to give proper background knowledge to new users so that they feel comfortable with a Wacom drawing tablet. For anyone who is serious about illustration, I recommend learning to use a drawing tablet because it is an essential skill to have in the professional world. It will make you easier to sell to future employers. Plus, who wouldn't like the idea of sketching on a crazy futuristic notepad device, anyway? Also, employers will expect a professional illustrator to know how to use a tablet. Although they may seem scary at first, once you're familiar with them, they will make your life easier. Many illustrators prefer tablets opposed to traditional media because of it’s natural “pencil and paper” feel. It is easier for an artist to create images with a pencil-like device rather than a mouse. 
 
 Listed below are steps to guide you through the process of setting up a Wacom tablet and learning to use it within a creative app, such as illustrtator. This process will begin with the basics of making sure you have contemporary software and end with instructions on how to create a finished illustration.
