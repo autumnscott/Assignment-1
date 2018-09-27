@@ -36,7 +36,7 @@ After you've got the desktop center open, click on the first tab at the top on t
 
 When you first get started in Illustrator you want to make sure that you have your tools set up correctly so that you get the most authentic tablet drawing experience possible. There's nothing more frustrating than when you feel like you aren't getting an authentic result because your tools aren't set up correctly. You want your paintbrushes to paint as if you were physically holding them, the more pressure the wider the stroke. So first, we are going to set up our brushes to paint with "pressure" rather than a "fixed" setting. 
 
-To set up pressure settings with your paint brush go to the window menu, scroll down to brushes, open the dropdown menu in the top right hand corner of the panel, and then select brush options. Change all of the settings from fixed to pressure. Now you will have a more realistic painting experience when using your paintbrushes in illustrator. 
+To set up pressure settings with your paint brush go to the window menu, scroll down to brushes, open the dropdown menu in the top right hand corner of the panel, and then select brush options (Excuse my unfinished cowboy illustration, I'm currently working on a project). Once you've selected brush option, change all of the settings from fixed to pressure. Now you will have a more realistic painting experience when using your paintbrushes in illustrator. 
 
 ![Brush Setup](windowbrushes.png)
 
