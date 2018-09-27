@@ -40,6 +40,10 @@ To set up pressure settings with your paint brush go to the window menu, scroll 
 
 ![Brush Setup](windowbrushes.png)
 
+![Brush Setup](brushoptions.png)
+
+![Brush Setup](brushsettings.png)
+
 ## Step Three - Drawing In Illustrator
 
 Now that we've got our brushes set up, it's time to start creating in Illustrator. Most illustrators create their artwork within layers. First, they will begin sketching their subject with the pencil tool. This will be on the bottom layer, while the finished more polished artwork will be on the top layers.  
