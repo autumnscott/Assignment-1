@@ -83,6 +83,7 @@ After you've finished adding color to your illustration, your image will need so
 ![blending image](blend.png)
 
 ## We Are Finished!
+
 VOILA! You have made it all the way through this tutorial! I can't believe you are still here. You just witnessed the beginning stages of a sketch, all the way through the finishing stages of a beautiful illustration. You now have all of the necessary knowledge to go make amazing art of your own. PRACTICE! PRACTICE! PRACTICE! Getting the hang of drawing with the tablet will take time, but before you know it you will be a pro! Thanks for stopping by!
 
 ### To watch the entire video of this illustration being made go to https://www.sketchbook.com/blog/wacom-intuos-sketchbook-workflow/
